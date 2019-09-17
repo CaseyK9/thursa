@@ -1,7 +1,7 @@
 # thursa
-nrsc companion script
+nrsc5 companion script
 
-You'll need to install NRSC: https://github.com/theori-io/nrsc5
+You'll need to install NRSC5: https://github.com/theori-io/nrsc5
 
 Run the thursa script and follow the prompts.
 
