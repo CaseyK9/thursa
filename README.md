@@ -1,0 +1,2 @@
+# thursa
+nrsc companion script
